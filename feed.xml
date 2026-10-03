@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>毎日のニュース</title>
+    <link>https://sumito16512890-lab.github.io/news-podcast/</link>
+    <language>ja</language>
+    <description>その日の主なニュースと兵庫県のニュースを、約20分の音声でまとめた個人用の番組です。音声はAIによる読み上げです。</description>
+    <itunes:author>個人用</itunes:author>
+    <itunes:image href="https://sumito16512890-lab.github.io/news-podcast/cover.jpg"/>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>10月4日のニュース</title>
+      <description>臨時国会あす召集、阪神が球団初のリーグ連覇、アジア大会サッカー・バレー男子は銀、北朝鮮ミサイルなど全33本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-04.mp3" length="4792460" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-10-04</guid>
+      <pubDate>Sun, 04 Oct 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>1197</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
