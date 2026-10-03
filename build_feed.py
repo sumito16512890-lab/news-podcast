@@ -63,7 +63,7 @@ def main(base):
     <itunes:image href="{base}/cover.jpg"/>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:block>Yes</itunes:block>
+    <itunes:type>episodic</itunes:type>
 {chr(10).join(items)}
   </channel>
 </rss>

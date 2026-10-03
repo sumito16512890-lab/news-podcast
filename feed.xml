@@ -9,7 +9,7 @@
     <itunes:image href="https://sumito16512890-lab.github.io/news-podcast/cover.jpg"/>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:block>Yes</itunes:block>
+    <itunes:type>episodic</itunes:type>
     <item>
       <title>10月4日のニュース</title>
       <description>臨時国会あす召集、阪神が球団初のリーグ連覇、アジア大会サッカー・バレー男子は銀、北朝鮮ミサイルなど全33本。</description>
