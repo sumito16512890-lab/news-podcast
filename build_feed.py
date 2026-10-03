@@ -1,4 +1,4 @@
-"""episodes/*.mp3 から feed.xml を作る。古い回は KEEP 件を超えたら削除する。
+"""episodes/*.mp3 から feed.xml を作る。KEEP を数値にすると古い回を削除する（None なら全回を残す）。
 
 使い方: python3 build_feed.py https://<ユーザー名>.github.io/<リポジトリ名>
 各回の説明文は episodes/YYYY-MM-DD.txt（任意）に書く。
@@ -10,7 +10,7 @@ import sys
 from datetime import datetime, timedelta, timezone
 from xml.sax.saxutils import escape
 
-KEEP = 14
+KEEP = None  # None = 過去の回を消さない
 HERE = os.path.dirname(os.path.abspath(__file__))
 EP_DIR = os.path.join(HERE, "episodes")
 JST = timezone(timedelta(hours=9))
@@ -27,12 +27,12 @@ def duration(path):
 def main(base):
     base = base.rstrip("/")
     mp3s = sorted(f for f in os.listdir(EP_DIR) if f.endswith(".mp3"))
-    for old in mp3s[:-KEEP]:
+    for old in (mp3s[:-KEEP] if KEEP else []):
         os.remove(os.path.join(EP_DIR, old))
         txt = os.path.join(EP_DIR, old[:-4] + ".txt")
         if os.path.exists(txt):
             os.remove(txt)
-    mp3s = mp3s[-KEEP:]
+    mp3s = mp3s[-KEEP:] if KEEP else mp3s
 
     items = []
     for f in reversed(mp3s):
