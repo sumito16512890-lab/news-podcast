@@ -70,6 +70,34 @@ def main(base):
 """
     with open(os.path.join(HERE, "feed.xml"), "w", encoding="utf-8") as fh:
         fh.write(feed)
+
+    # Safari でそのまま聴けるページ（バックグラウンド再生可）
+    rows = []
+    for f in reversed(mp3s):
+        d = datetime.strptime(f[:-4], "%Y-%m-%d")
+        txt = os.path.join(EP_DIR, f[:-4] + ".txt")
+        desc = open(txt, encoding="utf-8").read().strip() if os.path.exists(txt) else ""
+        rows.append(f'<li><b>{d.month}月{d.day}日のニュース</b><p>{escape(desc)}</p>'
+                    f'<audio controls preload="none" src="episodes/{f}"></audio></li>')
+    page = f"""<!doctype html>
+<html lang="ja"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>毎日のニュース</title>
+<link rel="apple-touch-icon" href="cover.jpg">
+<style>
+:root{{--bg:#f3f5f7;--fg:#1c2530;--muted:#5d6b7a;--card:#fff;--line:#dde3ea}}
+@media (prefers-color-scheme:dark){{:root{{--bg:#11161c;--fg:#e6ebf0;--muted:#98a6b5;--card:#1a212a;--line:#2a3440}}}}
+body{{margin:0;background:var(--bg);color:var(--fg);font-family:-apple-system,"Hiragino Sans",sans-serif;padding:24px 16px}}
+main{{max-width:560px;margin:0 auto}} h1{{font-size:24px}} ul{{list-style:none;padding:0;display:flex;flex-direction:column;gap:12px}}
+li{{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px}} li p{{color:var(--muted);font-size:14px;margin:6px 0 10px}}
+audio{{width:100%}}
+</style></head><body><main>
+<h1>毎日のニュース</h1>
+<ul>{''.join(rows)}</ul>
+</main></body></html>
+"""
+    with open(os.path.join(HERE, "index.html"), "w", encoding="utf-8") as fh:
+        fh.write(page)
     print(f"feed.xml: {len(items)} episodes")
 
 
