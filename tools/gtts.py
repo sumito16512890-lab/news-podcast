@@ -1,5 +1,5 @@
 import json,urllib.request,os,sys,base64,time,subprocess,wave
-k=open(os.path.expanduser('~/.config/gemini/key')).read().strip()
+k=os.environ.get('GEMINI_API_KEY') or open(os.path.expanduser('~/.config/gemini/key')).read().strip()
 MODEL=os.environ.get('MODEL','gemini-3.8-flash-tts'); VOICE=os.environ.get('VOICE','Kore')
 src,out=sys.argv[1],sys.argv[2]; limit=int(os.environ.get('LIMIT','0'))
 paras=[p.strip() for p in open(src).read().split('\n') if p.strip()]
