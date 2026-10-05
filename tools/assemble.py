@@ -11,6 +11,10 @@ F=int(24000*0.03)  # 30ms フェード
 allpcm=array.array('h')
 for c in ch:
     a=array.array('h',open('cache/'+hashlib.md5((M+V+S+c).encode()).hexdigest()+'.pcm','rb').read())
+    # Gemini が各チャンクの末尾に出す約0.1秒のフルスケール雑音を切り落とす
+    for i in range(max(0,len(a)-int(24000*0.5)),len(a)):
+        if abs(a[i])>31000:
+            print('trimmed tail noise at',round(i/24000,2),'of',round(len(a)/24000,2)); del a[max(0,i-480):]; break
     for i in range(min(F,len(a))):
         g=i/F; a[i]=int(a[i]*g); a[-1-i]=int(a[-1-i]*g)
     allpcm.extend(a); allpcm.extend(array.array('h',[0]*int(24000*0.6)))
