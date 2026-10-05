@@ -11,6 +11,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>10月6日のニュース</title>
+      <description>高市首相が所信表明、トリプル台風、ノーベル医学生理学賞、日本代表キリンカップ優勝など全32本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-06.mp3" length="20323629" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-10-06</guid>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>1270</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>10月5日のニュース</title>
       <description>臨時国会召集・食料品消費税1%法案、那覇の強盗殺人で米兵逮捕、古賀若菜が世界柔道初優勝、ノーベル賞発表始まるなど全30本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-05.mp3" length="18839084" type="audio/mpeg"/>
@@ -25,7 +34,7 @@
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-04.mp3" length="19169324" type="audio/mpeg"/>
       <guid isPermaLink="false">news-2026-10-04</guid>
       <pubDate>Sun, 04 Oct 2026 06:00:00 +0900</pubDate>
-      <itunes:duration>1197</itunes:duration>
+      <itunes:duration>1198</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
