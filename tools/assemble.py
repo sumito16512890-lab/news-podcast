@@ -1,6 +1,6 @@
 # キャッシュ済みチャンクを、つなぎ目にフェードを入れて結合する
 import os,sys,hashlib,wave,array
-M,V,S=os.environ['MODEL'],os.environ['VOICE'],os.environ['STYLE']
+M,V,S=os.environ['MODEL'],os.environ['VOICE'],os.environ.get('STYLE','')
 src,n,out=sys.argv[1],int(sys.argv[2]),sys.argv[3]
 paras=[p.strip() for p in open(src).read().split('\n') if p.strip()];ch=[];cur=''
 for p in paras:

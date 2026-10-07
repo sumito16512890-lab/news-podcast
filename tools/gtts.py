@@ -16,7 +16,7 @@ for i,c in enumerate(chunks):
     cf='cache/'+hashlib.md5((MODEL+VOICE+os.environ.get('STYLE','')+c).encode()).hexdigest()+'.pcm'
     if os.path.exists(cf):
         pcm+=open(cf,'rb').read()+b'\0'*int(24000*2*0.6); print(f'chunk {i+1} cached',flush=True); continue
-    body={"contents":[{"parts":[{"text":os.environ.get("STYLE","次の日本語のニュース原稿を、落ち着いた自然なニュースキャスターの口調で、原稿どおりに読み上げてください。")+"\n\n"+c}]}],
+    body={"contents":[{"parts":[{"text":(os.environ.get("STYLE","").strip()+"\n\n"+c).strip()}]}],
           "generationConfig":{"responseModalities":["AUDIO"],"speechConfig":{"voiceConfig":{"prebuiltVoiceConfig":{"voiceName":VOICE}}}}}
     for a in range(5):
         try:

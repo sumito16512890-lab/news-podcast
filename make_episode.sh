@@ -6,7 +6,8 @@ DAY=$1; SCRIPT=$(cd "$(dirname "$2")" && pwd)/$(basename "$2"); SUMMARY=$3
 HERE=$(cd "$(dirname "$0")" && pwd)
 BASE=https://sumito16512890-lab.github.io/news-podcast
 export VOICE=Leda CHUNK=1200
-export STYLE="次の日本語のニュース原稿を、明るく高めの声のトーンで、はきはきと親しみやすい女性ニュースキャスターとして、原稿どおりに読み上げてください。"
+# 読み上げ指示文は付けない（指示文そのものや日本語以外の前置きを読み上げてしまうため）。原稿だけを送る。
+export STYLE=""
 # クラウド環境などで ffmpeg が無ければ入れる
 if ! command -v ffmpeg >/dev/null; then
   (sudo -n apt-get update -qq && sudo -n apt-get install -y -qq ffmpeg) || (apt-get update -qq && apt-get install -y -qq ffmpeg)
@@ -28,9 +29,9 @@ if [[ -z $OK ]]; then
   ffmpeg -y -loglevel error -i "$HERE/work/$DAY-edge.mp3" -ar 24000 -ac 1 "$RAW"; OK=edge-tts
 fi
 
-# 2. 20分に近づける（遅くするのは最大5%まで）
+# 2. 15分に近づける（遅くするのは最大5%まで）
 LEN=$(ffprobe -v error -show_entries format=duration -of csv=p=0 "$RAW")
-TEMPO=$(python3 -c "print(max(0.95, min(1.0, $LEN/1200)))")
+TEMPO=$(python3 -c "print(max(0.95, min(1.0, $LEN/900)))")
 
 # 3. 音割れ・プツッ音の補正と音量調整をして 128kbps で保存
 OUT="$HERE/episodes/$DAY.mp3"
