@@ -11,6 +11,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>10月8日のニュース</title>
+      <description>ビール大手4社に公取委が強制調査、立憲が食料品消費税ゼロを取り下げ、ノーベル化学賞に日本人など全28本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-08.mp3" length="14401197" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-10-08</guid>
+      <pubDate>Thu, 08 Oct 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>900</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>10月7日のニュース</title>
       <description>臨時国会で代表質問開始、首相が日朝首脳会談の仲介を米に要請、個人情報流出が相次ぐ、パ・リーグ平良が防御率1.36などあわせて45本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-07.mp3" length="20426157" type="audio/mpeg"/>
