@@ -11,6 +11,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>10月10日のニュース</title>
+      <description>簗農相の問責決議案検討、個人情報流出で政府が緊急要請、ビール4社が価格協議認める、米がICC制裁などの全34本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-10.mp3" length="16008237" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-10-10</guid>
+      <pubDate>Sat, 10 Oct 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>1000</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>10月9日のニュース</title>
       <description>プルデンシャル64人解雇、ローソン215万件情報漏えい、阪神・佐藤輝明が三冠王など全32本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-09.mp3" length="14825517" type="audio/mpeg"/>
