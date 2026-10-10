@@ -11,6 +11,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>10月11日のニュース</title>
+      <description>高市首相のG7欠席に野党が苦言、だんじり横転で2人死亡、ビール4社のカルテル疑い、佐藤瞳が決勝へなど全25本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-11.mp3" length="14835501" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-10-11</guid>
+      <pubDate>Sun, 11 Oct 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>927</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>10月10日のニュース</title>
       <description>簗農相の問責決議案検討、個人情報流出で政府が緊急要請、ビール4社が価格協議認める、米がICC制裁などの全34本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-10.mp3" length="16008237" type="audio/mpeg"/>
