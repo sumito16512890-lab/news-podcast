@@ -11,6 +11,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>10月12日のニュース</title>
+      <description>議員定数削減の波紋、簗農相の発言、日経平均6万9030円、斎藤知事の会見拒否など全26本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-12.mp3" length="15237549" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-10-12</guid>
+      <pubDate>Mon, 12 Oct 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>952</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>10月11日のニュース</title>
       <description>高市首相のG7欠席に野党が苦言、だんじり横転で2人死亡、ビール4社のカルテル疑い、佐藤瞳が決勝へなど全25本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-11.mp3" length="14835501" type="audio/mpeg"/>
