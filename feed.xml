@@ -11,6 +11,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>10月14日のニュース</title>
+      <description>簗農相の進退、日本のGDP来年世界6位見通し、プルデンシャル生命の業務停止、ドジャース2連敗など全26本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-14.mp3" length="14930349" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-10-14</guid>
+      <pubDate>Wed, 14 Oct 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>933</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>10月13日のニュース</title>
       <description>消費税減税めぐる予算委が開始、片山財務相が開発委議長に、アシックス売上高1兆円へ、日本ハム3年連続ファイナルなど全26本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-13.mp3" length="15117357" type="audio/mpeg"/>
