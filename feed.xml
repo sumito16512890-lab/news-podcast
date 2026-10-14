@@ -11,6 +11,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>10月15日のニュース</title>
+      <description>簗農相が辞表提出、公明が統一選の協力解消、サイゼリヤ値上げ、台風30号発生へなど全35本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-15.mp3" length="14545581" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-10-15</guid>
+      <pubDate>Thu, 15 Oct 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>909</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>10月14日のニュース</title>
       <description>簗農相の進退、日本のGDP来年世界6位見通し、プルデンシャル生命の業務停止、ドジャース2連敗など全26本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-14.mp3" length="14930349" type="audio/mpeg"/>
