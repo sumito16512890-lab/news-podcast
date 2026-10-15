@@ -11,6 +11,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>10月16日のニュース</title>
+      <description>新農相に武部新氏、日経平均3318円安で歴代3位、パナソニック洗濯機64万台リコールなど全26本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-16.mp3" length="15494829" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-10-16</guid>
+      <pubDate>Fri, 16 Oct 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>968</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>10月15日のニュース</title>
       <description>簗農相が辞表提出、公明が統一選の協力解消、サイゼリヤ値上げ、台風30号発生へなど全35本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-15.mp3" length="14545581" type="audio/mpeg"/>
