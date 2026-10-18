@@ -11,6 +11,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>10月19日のニュース</title>
+      <description>内閣支持率、消費税減税法案の審議入り、横浜市長選、エムエムエックス打ち上げ前日など全33本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-19.mp3" length="14933037" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-10-19</guid>
+      <pubDate>Mon, 19 Oct 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>933</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>10月18日のニュース</title>
       <description>愛媛・西条まつりで副市長が死亡、消費減税の給付案は平均3万円、兵庫の津波想定を13年ぶり見直し、ディーエヌエーが日本シリーズ進出など全30本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-18.mp3" length="14716461" type="audio/mpeg"/>
