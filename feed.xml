@@ -11,6 +11,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>10月20日のニュース</title>
+      <description>消費税減税法案が審議入り、日経平均が歴代3位の下落、エムエムエックス打ち上げなど全29本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-20.mp3" length="17393709" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-10-20</guid>
+      <pubDate>Tue, 20 Oct 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>1087</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>10月19日のニュース</title>
       <description>内閣支持率、消費税減税法案の審議入り、横浜市長選、エムエムエックス打ち上げ前日など全33本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-19.mp3" length="14933037" type="audio/mpeg"/>
