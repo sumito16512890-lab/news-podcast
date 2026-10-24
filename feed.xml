@@ -11,6 +11,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>10月25日のニュース</title>
+      <description>台風30号が西日本に接近、ジーエムオーが政府に能動的サイバー防御を要請、ガソリン補助の見直し、日本シリーズ開幕など全23本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-25.mp3" length="16110381" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-10-25</guid>
+      <pubDate>Sun, 25 Oct 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>1006</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>10月24日のニュース</title>
       <description>台風30号が先島諸島に接近、日銀が物価2%到達を判断へ、佐川急便で最大5323万件の情報流出の可能性、日本シリーズ開幕など全22本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-24.mp3" length="15406893" type="audio/mpeg"/>
