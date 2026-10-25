@@ -11,6 +11,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>10月26日のニュース</title>
+      <description>ジーエムオーへの不正アクセスと政府のサイバー対策、内閣支持率45%、スバルの欧州ガソリン車撤退、日本シリーズでソフトバンクが2連勝など全34本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-26.mp3" length="14984877" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-10-26</guid>
+      <pubDate>Mon, 26 Oct 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>936</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>10月25日のニュース</title>
       <description>台風30号が西日本に接近、ジーエムオーが政府に能動的サイバー防御を要請、ガソリン補助の見直し、日本シリーズ開幕など全23本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-25.mp3" length="16110381" type="audio/mpeg"/>
