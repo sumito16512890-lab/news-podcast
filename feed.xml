@@ -11,6 +11,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>10月27日のニュース</title>
+      <description>福田康夫元首相が死去、スパイ防止の登録制度案、相次ぐ情報流出と緊急対策、ロシアとウクライナが局地停戦など全31本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-27.mp3" length="14621997" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-10-27</guid>
+      <pubDate>Tue, 27 Oct 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>913</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>10月26日のニュース</title>
       <description>ジーエムオーへの不正アクセスと政府のサイバー対策、内閣支持率45%、スバルの欧州ガソリン車撤退、日本シリーズでソフトバンクが2連勝など全34本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-26.mp3" length="14984877" type="audio/mpeg"/>
