@@ -29,9 +29,8 @@ if [[ -z $OK ]]; then
   ffmpeg -y -loglevel error -i "$HERE/work/$DAY-edge.mp3" -ar 24000 -ac 1 "$RAW"; OK=edge-tts
 fi
 
-# 2. 15分に近づける（遅くするのは最大5%まで）
-LEN=$(ffprobe -v error -show_entries format=duration -of csv=p=0 "$RAW")
-TEMPO=$(python3 -c "print(max(0.95, min(1.0, $LEN/900)))")
+# 2. 話す速さを1.1倍にする（長さは原稿の量で約15分に合わせる）
+TEMPO=1.1
 
 # 3. 音割れ・プツッ音の補正と音量調整をして 128kbps で保存
 OUT="$HERE/episodes/$DAY.mp3"
