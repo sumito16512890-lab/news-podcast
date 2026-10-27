@@ -11,6 +11,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>10月28日のニュース</title>
+      <description>福田康夫元首相が死去、副首都の指定要件、日経平均6万3000円台、ソフトバンクが日本シリーズ王手など全25本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-28.mp3" length="17423277" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-10-28</guid>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>1088</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>10月27日のニュース</title>
       <description>福田康夫元首相が死去、スパイ防止の登録制度案、相次ぐ情報流出と緊急対策、ロシアとウクライナが局地停戦など全31本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-27.mp3" length="14621997" type="audio/mpeg"/>
