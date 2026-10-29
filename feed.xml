@@ -11,6 +11,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>10月30日のニュース</title>
+      <description>電気ガス補助の再開、衆院比例31減で3党合意、日銀会合、スペイン列車事故など全33本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-30.mp3" length="14893101" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-10-30</guid>
+      <pubDate>Fri, 30 Oct 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>930</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>10月29日のニュース</title>
       <description>日独首脳会談で共同宣言、衆院比例31減で3党合意、スペイン高速列車事故、ソフトバンク日本一など全36本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-29.mp3" length="14630061" type="audio/mpeg"/>
