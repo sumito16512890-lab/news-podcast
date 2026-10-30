@@ -11,6 +11,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>10月31日のニュース</title>
+      <description>日銀が金利据え置き・物価2%到達を表明、キオクシア純利益37倍、電気ガス補助再開、スペイン列車事故など全24本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-31.mp3" length="14577837" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-10-31</guid>
+      <pubDate>Sat, 31 Oct 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>911</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>10月30日のニュース</title>
       <description>電気ガス補助の再開、衆院比例31減で3党合意、日銀会合、スペイン列車事故など全33本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-30.mp3" length="14893101" type="audio/mpeg"/>
