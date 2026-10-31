@@ -11,6 +11,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>11月1日のニュース</title>
+      <description>GMOへのサイバー攻撃、日銀が物価目標到達を表明、ゆうちょ銀行が貯金金利0.5%へ、米中間選挙直前など全35本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-01.mp3" length="14349357" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-11-01</guid>
+      <pubDate>Sun, 01 Nov 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>896</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>10月31日のニュース</title>
       <description>日銀が金利据え置き・物価2%到達を表明、キオクシア純利益37倍、電気ガス補助再開、スペイン列車事故など全24本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-10-31.mp3" length="14577837" type="audio/mpeg"/>
