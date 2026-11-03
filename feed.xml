@@ -11,6 +11,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>11月4日のニュース</title>
+      <description>消費税減税法案の協議開始、ジーエムオー会見、アソビュー情報流出、米中間選挙、アジア杯延期など全44本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-04.mp3" length="14000685" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-11-04</guid>
+      <pubDate>Wed, 04 Nov 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>875</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>11月3日のニュース</title>
       <description>防災庁が発足し緊急要請、ジーエムオー社長が陳謝、日経平均は6万3081円、米中間選挙の投票開始など全36本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-03.mp3" length="14047149" type="audio/mpeg"/>
