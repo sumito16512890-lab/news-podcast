@@ -11,6 +11,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>11月5日のニュース</title>
+      <description>日経平均893円安、日銀が基調物価2%到達、リニア工事費さらに増額検討、米中間選挙で民主党が上下両院の過半数など全32本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-05.mp3" length="14408493" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-11-05</guid>
+      <pubDate>Thu, 05 Nov 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>900</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>11月4日のニュース</title>
       <description>消費税減税法案の協議開始、ジーエムオー会見、アソビュー情報流出、米中間選挙、アジア杯延期など全44本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-04.mp3" length="14000685" type="audio/mpeg"/>
