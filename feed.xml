@@ -11,6 +11,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>11月7日のニュース</title>
+      <description>消費税減税法案が衆院通過、日経平均が6万円割れ、ドコモ情報流出、米中間選挙で民主党勝利など全40本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-07.mp3" length="13922349" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-11-07</guid>
+      <pubDate>Sat, 07 Nov 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>870</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>11月6日のニュース</title>
       <description>消費税減税法案の採決、米中間選挙で共和党大敗とNY株急落、日本たばこ産業のロシア資産管理、田嶋氏のFIFA会長選出馬など全37本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-06.mp3" length="13152045" type="audio/mpeg"/>
