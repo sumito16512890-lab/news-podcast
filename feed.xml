@@ -11,6 +11,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>11月9日のニュース</title>
+      <description>愛知で震度5強、日経平均が歴代3位の下げ幅、消費減税法案は参院へ、米中間選挙で民主党が多数派など全30本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-09.mp3" length="15032109" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-11-09</guid>
+      <pubDate>Mon, 09 Nov 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>939</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>11月8日のニュース</title>
       <description>愛知で震度5強、消費減税法案が衆院通過、日経平均3643円安、米中間選挙で民主党大勝など全27本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-08.mp3" length="14191533" type="audio/mpeg"/>
