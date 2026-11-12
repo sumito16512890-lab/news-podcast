@@ -11,6 +11,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>11月13日のニュース</title>
+      <description>消費税減税法案の参院審議入り、円安160円台、良品計画の情報漏えい、エヌビディアCEO辞任など全26本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-13.mp3" length="14544429" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-11-13</guid>
+      <pubDate>Fri, 13 Nov 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>909</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>11月12日のニュース</title>
       <description>消費税減税法案、美浜原発3号機の50年超運転認可、円安159円台、兵庫県の震災負担1兆円超など全33本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-12.mp3" length="14602797" type="audio/mpeg"/>
