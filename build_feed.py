@@ -1,4 +1,4 @@
-"""episodes/*.mp3 から feed.xml を作る。KEEP を数値にすると古い回を削除する（None なら全回を残す）。
+"""episodes/*.mp3 から feed.xml と index.html を作る。KEEP_DAYS より古い回は自動で削除する（2026-11-13 ユーザーの指示）。
 
 使い方: python3 build_feed.py https://<ユーザー名>.github.io/<リポジトリ名>
 各回の説明文は episodes/YYYY-MM-DD.txt（任意）に書く。
@@ -10,7 +10,7 @@ import sys
 from datetime import datetime, timedelta, timezone
 from xml.sax.saxutils import escape
 
-KEEP = None  # None = 過去の回を消さない
+KEEP_DAYS = 10  # 直近10日分（今日を含む）だけ残し、それより古い回は削除する
 HERE = os.path.dirname(os.path.abspath(__file__))
 EP_DIR = os.path.join(HERE, "episodes")
 JST = timezone(timedelta(hours=9))
@@ -27,12 +27,14 @@ def duration(path):
 def main(base):
     base = base.rstrip("/")
     mp3s = sorted(f for f in os.listdir(EP_DIR) if f.endswith(".mp3"))
-    for old in (mp3s[:-KEEP] if KEEP else []):
+    cutoff = (datetime.now(JST).date() - timedelta(days=KEEP_DAYS - 1)).isoformat()
+    for old in [f for f in mp3s if f[:-4] < cutoff]:
         os.remove(os.path.join(EP_DIR, old))
         txt = os.path.join(EP_DIR, old[:-4] + ".txt")
         if os.path.exists(txt):
             os.remove(txt)
-    mp3s = mp3s[-KEEP:] if KEEP else mp3s
+        print("removed", old)
+    mp3s = [f for f in mp3s if f[:-4] >= cutoff]
 
     items = []
     for f in reversed(mp3s):
