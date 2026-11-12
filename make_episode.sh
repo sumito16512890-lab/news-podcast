@@ -32,11 +32,11 @@ fi
 # 2. 話す速さを1.1倍にする（長さは原稿の量で約15分に合わせる）
 TEMPO=1.1
 
-# 3. 音割れ・プツッ音の補正と音量調整をして 128kbps で保存
+# 3. 音割れ・プツッ音の補正と音量調整をして 64kbps で保存（声だけなので十分な音質。容量を半分にするため）
 OUT="$HERE/episodes/$DAY.mp3"
 ffmpeg -y -loglevel error -i "$RAW" \
   -af "aformat=sample_fmts=fltp,adeclip,volume=0.7,adeclick,highpass=f=60,lowpass=f=9500,atempo=$TEMPO,alimiter=limit=0.89,loudnorm=I=-16:TP=-1.5:LRA=11" \
-  -ar 24000 -ac 1 -c:a libmp3lame -b:a 128k "$OUT"
+  -ar 24000 -ac 1 -c:a libmp3lame -b:a 64k "$OUT"
 printf '%s\n' "$SUMMARY" > "$HERE/episodes/$DAY.txt"
 if [[ -d "$HERE/../news" ]]; then cp "$OUT" "$HERE/../news/news-$DAY.mp3"; fi
 
