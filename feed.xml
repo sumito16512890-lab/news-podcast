@@ -11,12 +11,21 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>11月14日のニュース</title>
+      <description>冬の電気・ガス支援6500億円、ワタミがMBO、エヌビディアのフアンCEO辞任、侍ジャパンが韓国に勝利など全26本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-14.mp3" length="6292077" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-11-14</guid>
+      <pubDate>Sat, 14 Nov 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>786</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>11月13日のニュース</title>
       <description>消費税減税法案の参院審議入り、円安160円台、良品計画の情報漏えい、エヌビディアCEO辞任など全26本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-13.mp3" length="7272236" type="audio/mpeg"/>
       <guid isPermaLink="false">news-2026-11-13</guid>
       <pubDate>Fri, 13 Nov 2026 06:00:00 +0900</pubDate>
-      <itunes:duration>908</itunes:duration>
+      <itunes:duration>909</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -89,15 +98,6 @@
       <guid isPermaLink="false">news-2026-11-05</guid>
       <pubDate>Thu, 05 Nov 2026 06:00:00 +0900</pubDate>
       <itunes:duration>900</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>11月4日のニュース</title>
-      <description>消費税減税法案の協議開始、ジーエムオー会見、アソビュー情報流出、米中間選挙、アジア杯延期など全44本。</description>
-      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-04.mp3" length="7000364" type="audio/mpeg"/>
-      <guid isPermaLink="false">news-2026-11-04</guid>
-      <pubDate>Wed, 04 Nov 2026 06:00:00 +0900</pubDate>
-      <itunes:duration>874</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
