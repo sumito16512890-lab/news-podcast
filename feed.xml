@@ -11,6 +11,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>11月15日のニュース</title>
+      <description>米中露の接近に政府が危機感、日経平均6万1000円台、神戸マラソン、日本代表がブラジルに勝利など全16本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-15.mp3" length="2219373" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-11-15</guid>
+      <pubDate>Sun, 15 Nov 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>277</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>11月14日のニュース</title>
       <description>冬の電気・ガス支援6500億円、ワタミがMBO、エヌビディアのフアンCEO辞任、侍ジャパンが韓国に勝利など全26本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-14.mp3" length="6292077" type="audio/mpeg"/>
@@ -89,15 +98,6 @@
       <guid isPermaLink="false">news-2026-11-06</guid>
       <pubDate>Fri, 06 Nov 2026 06:00:00 +0900</pubDate>
       <itunes:duration>821</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>11月5日のニュース</title>
-      <description>日経平均893円安、日銀が基調物価2%到達、リニア工事費さらに増額検討、米中間選挙で民主党が上下両院の過半数など全32本。</description>
-      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-05.mp3" length="7204268" type="audio/mpeg"/>
-      <guid isPermaLink="false">news-2026-11-05</guid>
-      <pubDate>Thu, 05 Nov 2026 06:00:00 +0900</pubDate>
-      <itunes:duration>900</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
