@@ -11,6 +11,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>11月16日のニュース</title>
+      <description>株価6万円台と金利上昇、キオクシア急落、消費減税法案の審議、侍ジャパン3連覇など全19本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-16.mp3" length="5834925" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-11-16</guid>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>729</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>11月15日のニュース</title>
       <description>米中露の接近に政府が危機感、日経平均6万1000円台、神戸マラソン、サッカー日本代表がブラジルに勝利など全28本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-15.mp3" length="5473773" type="audio/mpeg"/>
@@ -89,15 +98,6 @@
       <guid isPermaLink="false">news-2026-11-07</guid>
       <pubDate>Sat, 07 Nov 2026 06:00:00 +0900</pubDate>
       <itunes:duration>870</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>11月6日のニュース</title>
-      <description>消費税減税法案の採決、米中間選挙で共和党大敗とNY株急落、日本たばこ産業のロシア資産管理、田嶋氏のFIFA会長選出馬など全37本。</description>
-      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-06.mp3" length="6576044" type="audio/mpeg"/>
-      <guid isPermaLink="false">news-2026-11-06</guid>
-      <pubDate>Fri, 06 Nov 2026 06:00:00 +0900</pubDate>
-      <itunes:duration>821</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
