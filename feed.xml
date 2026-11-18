@@ -11,6 +11,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>11月19日のニュース</title>
+      <description>日中首脳が握手、日露首脳が直接対話、熊本で震度5弱、受刑者の選挙権制限は合憲、EV新税など全27本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-19.mp3" length="5686125" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-11-19</guid>
+      <pubDate>Thu, 19 Nov 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>710</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>11月18日のニュース</title>
       <description>クアッド首脳会合、日経平均801円安、エヌビディア決算、サッカー日本代表が森保監督ラストで敗戦など全32本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-18.mp3" length="5731053" type="audio/mpeg"/>
@@ -89,15 +98,6 @@
       <guid isPermaLink="false">news-2026-11-10</guid>
       <pubDate>Tue, 10 Nov 2026 06:00:00 +0900</pubDate>
       <itunes:duration>830</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>11月9日のニュース</title>
-      <description>愛知で震度5強、日経平均が歴代3位の下げ幅、消費減税法案は参院へ、米中間選挙で民主党が多数派など全30本。</description>
-      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-09.mp3" length="7516076" type="audio/mpeg"/>
-      <guid isPermaLink="false">news-2026-11-09</guid>
-      <pubDate>Mon, 09 Nov 2026 06:00:00 +0900</pubDate>
-      <itunes:duration>939</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
