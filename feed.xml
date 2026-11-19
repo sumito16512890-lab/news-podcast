@@ -11,6 +11,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>11月20日のニュース</title>
+      <description>高市首相が外遊から帰国、アンソロピック上場でダウ急落、米中ロが史上初の首脳会談など全14本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-20.mp3" length="2103021" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>262</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>11月19日のニュース</title>
       <description>日中首脳が握手、日露首脳が直接対話、熊本で震度5弱、受刑者の選挙権制限は合憲、EV新税など全27本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-19.mp3" length="5686125" type="audio/mpeg"/>
@@ -89,15 +98,6 @@
       <guid isPermaLink="false">news-2026-11-11</guid>
       <pubDate>Wed, 11 Nov 2026 06:00:00 +0900</pubDate>
       <itunes:duration>951</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>11月10日のニュース</title>
-      <description>石破前首相ら4人を戒告、日経平均が6営業日ぶり反発、ニトリ個人情報流出など全30本。</description>
-      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-10.mp3" length="6641132" type="audio/mpeg"/>
-      <guid isPermaLink="false">news-2026-11-10</guid>
-      <pubDate>Tue, 10 Nov 2026 06:00:00 +0900</pubDate>
-      <itunes:duration>830</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
