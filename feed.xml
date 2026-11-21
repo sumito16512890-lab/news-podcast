@@ -11,6 +11,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>11月22日のニュース</title>
+      <description>アメリカ株急落・日経平均3000円安、電気自動車補助金が終了、福島で大雪孤立、島田麻央が優勝など全27本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-22.mp3" length="5497197" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-11-22</guid>
+      <pubDate>Sun, 22 Nov 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>687</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>11月21日のニュース</title>
       <description>安保3文書素案に原潜検討着手、日経平均3000円超下落、米中ロが初の3か国首脳会談など全26本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-21.mp3" length="5763309" type="audio/mpeg"/>
@@ -89,15 +98,6 @@
       <guid isPermaLink="false">news-2026-11-13</guid>
       <pubDate>Fri, 13 Nov 2026 06:00:00 +0900</pubDate>
       <itunes:duration>909</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>11月12日のニュース</title>
-      <description>消費税減税法案、美浜原発3号機の50年超運転認可、円安159円台、兵庫県の震災負担1兆円超など全33本。</description>
-      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-12.mp3" length="7301420" type="audio/mpeg"/>
-      <guid isPermaLink="false">news-2026-11-12</guid>
-      <pubDate>Thu, 12 Nov 2026 06:00:00 +0900</pubDate>
-      <itunes:duration>912</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
