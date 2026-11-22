@@ -11,6 +11,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>11月23日のニュース</title>
+      <description>関文科相の説明問題、非核三原則の例外検討、日経平均が大幅下落、アンソロピック上場など全27本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-23.mp3" length="5280621" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>660</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>11月22日のニュース</title>
       <description>アメリカ株急落・日経平均3000円安、電気自動車補助金が終了、福島で大雪孤立、島田麻央が優勝など全27本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-22.mp3" length="5497197" type="audio/mpeg"/>
@@ -89,15 +98,6 @@
       <guid isPermaLink="false">news-2026-11-14</guid>
       <pubDate>Sat, 14 Nov 2026 06:00:00 +0900</pubDate>
       <itunes:duration>786</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>11月13日のニュース</title>
-      <description>消費税減税法案の参院審議入り、円安160円台、良品計画の情報漏えい、エヌビディアCEO辞任など全26本。</description>
-      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-13.mp3" length="7272236" type="audio/mpeg"/>
-      <guid isPermaLink="false">news-2026-11-13</guid>
-      <pubDate>Fri, 13 Nov 2026 06:00:00 +0900</pubDate>
-      <itunes:duration>909</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
