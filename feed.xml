@@ -11,6 +11,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>11月24日のニュース</title>
+      <description>エヌビディアのフアン氏がCEO復帰、地銀が定期預金金利を大幅引き上げ、関文科相の問責案協議へなど全27本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-24.mp3" length="5597229" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-11-24</guid>
+      <pubDate>Tue, 24 Nov 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>699</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>11月23日のニュース</title>
       <description>関文科相の説明問題、非核三原則の例外検討、日経平均が大幅下落、アンソロピック上場など全27本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-23.mp3" length="5280621" type="audio/mpeg"/>
@@ -89,15 +98,6 @@
       <guid isPermaLink="false">news-2026-11-15</guid>
       <pubDate>Sun, 15 Nov 2026 06:00:00 +0900</pubDate>
       <itunes:duration>684</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>11月14日のニュース</title>
-      <description>冬の電気・ガス支援6500億円、ワタミがMBO、エヌビディアのフアンCEO辞任、侍ジャパンが韓国に勝利など全26本。</description>
-      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-14.mp3" length="6292077" type="audio/mpeg"/>
-      <guid isPermaLink="false">news-2026-11-14</guid>
-      <pubDate>Sat, 14 Nov 2026 06:00:00 +0900</pubDate>
-      <itunes:duration>786</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
