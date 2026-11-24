@@ -11,6 +11,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>11月25日のニュース</title>
+      <description>日経平均が2200円あまり上昇、楽天証券で顧客情報流出の可能性、第2次補正予算案の編成を指示など全18本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-25.mp3" length="2418861" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-11-25</guid>
+      <pubDate>Wed, 25 Nov 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>302</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>11月24日のニュース</title>
       <description>エヌビディアのフアン氏がCEO復帰、地銀が定期預金金利を大幅引き上げ、関文科相の問責案協議へなど全27本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-24.mp3" length="5597229" type="audio/mpeg"/>
@@ -89,15 +98,6 @@
       <guid isPermaLink="false">news-2026-11-16</guid>
       <pubDate>Mon, 16 Nov 2026 06:00:00 +0900</pubDate>
       <itunes:duration>729</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>11月15日のニュース</title>
-      <description>米中露の接近に政府が危機感、日経平均6万1000円台、神戸マラソン、サッカー日本代表がブラジルに勝利など全28本。</description>
-      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-15.mp3" length="5473773" type="audio/mpeg"/>
-      <guid isPermaLink="false">news-2026-11-15</guid>
-      <pubDate>Sun, 15 Nov 2026 06:00:00 +0900</pubDate>
-      <itunes:duration>684</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
