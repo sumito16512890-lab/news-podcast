@@ -11,6 +11,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>11月26日のニュース</title>
+      <description>米が日中EUに新関税案、日経平均が一時2100円超安、ANAがパイロット養成会社設立など全19本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-26.mp3" length="5794797" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-11-26</guid>
+      <pubDate>Thu, 26 Nov 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>724</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>11月25日のニュース</title>
       <description>日経平均が2200円あまり上昇、楽天証券で顧客情報流出の可能性、第2次補正予算案の編成を指示など全35本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-25.mp3" length="5645997" type="audio/mpeg"/>
@@ -89,15 +98,6 @@
       <guid isPermaLink="false">news-2026-11-17</guid>
       <pubDate>Tue, 17 Nov 2026 06:00:00 +0900</pubDate>
       <itunes:duration>663</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>11月16日のニュース</title>
-      <description>株価6万円台と金利上昇、キオクシア急落、消費減税法案の審議、侍ジャパン3連覇など全19本。</description>
-      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-16.mp3" length="5834925" type="audio/mpeg"/>
-      <guid isPermaLink="false">news-2026-11-16</guid>
-      <pubDate>Mon, 16 Nov 2026 06:00:00 +0900</pubDate>
-      <itunes:duration>729</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
