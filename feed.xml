@@ -11,6 +11,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>11月28日のニュース</title>
+      <description>文科相の問責案否決、日経平均5万8700円台、訪日客が10月最多、個人情報の漏えい相次ぐなど全26本。</description>
+      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-28.mp3" length="5649645" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-2026-11-28</guid>
+      <pubDate>Sat, 28 Nov 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>706</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>11月27日のニュース</title>
       <description>文科相の問責決議案採決、米の追加関税案、日経平均5万7千円台、いじめ・不登校が過去最多など全34本。</description>
       <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-27.mp3" length="5707437" type="audio/mpeg"/>
@@ -89,15 +98,6 @@
       <guid isPermaLink="false">news-2026-11-19</guid>
       <pubDate>Thu, 19 Nov 2026 06:00:00 +0900</pubDate>
       <itunes:duration>710</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>11月18日のニュース</title>
-      <description>クアッド首脳会合、日経平均801円安、エヌビディア決算、サッカー日本代表が森保監督ラストで敗戦など全32本。</description>
-      <enclosure url="https://sumito16512890-lab.github.io/news-podcast/episodes/2026-11-18.mp3" length="5731053" type="audio/mpeg"/>
-      <guid isPermaLink="false">news-2026-11-18</guid>
-      <pubDate>Wed, 18 Nov 2026 06:00:00 +0900</pubDate>
-      <itunes:duration>716</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
